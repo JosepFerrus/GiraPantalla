@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GiraPantalla</string>
+    <string name="Nombre">Nom</string>
+    <string name="sexe">Sexe</string>
+    <string name="mascle">Mascle</string>
+    <string name="femella">Femella</string>
+    <string name="enviar_dades">Enviar dades</string>
+    <string name="edat">Que edat tens?</string>
+    <string name="continuar">Continuar</string>
+
+</resources>
